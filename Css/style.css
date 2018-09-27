@@ -1,0 +1,51 @@
+
+.box {
+    width: 630px;
+    height: 630px;
+    background: silver;
+    padding: 5px;
+    border: 0px;
+    margin: 0px;
+}
+.kwadrat{
+     width: 200px;
+     height: 200px;
+     float: left;      
+     padding: 0;
+     border: 0;
+     margin: 5px;
+}
+.kolo{
+    border: 2px solid silver;
+     border-radius: 52px;
+     width: 100px;
+     height: 100px;
+     position: relative; top: 50px; left: 50px;
+}
+.czerwone{
+    background: red;
+}
+.niebieskie{
+    background: blue;
+}
+.zielone{
+    background: green;
+}
+.zolte{
+    background: yellow;
+}
+.czarne{
+    background: black;
+}
+.pomaranczowe{
+    background: orange;
+}
+.fioletowe{
+    background: violet;
+}
+.szare{
+    background: grey;
+}
+.rozowe{
+    background: pink;
+}
